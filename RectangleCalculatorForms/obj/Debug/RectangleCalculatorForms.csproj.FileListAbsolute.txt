@@ -1,0 +1,10 @@
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\bin\Debug\RectangleCalculatorForms.exe.config
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\bin\Debug\RectangleCalculatorForms.exe
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\bin\Debug\RectangleCalculatorForms.pdb
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.csproj.AssemblyReference.cache
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.Form1.resources
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.Properties.Resources.resources
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.csproj.GenerateResource.cache
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.csproj.CoreCompileInputs.cache
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.exe
+C:\Users\rmtoko\Source\Repos\RectangleCalculatorForms-Duplicate\RectangleCalculatorForms\obj\Debug\RectangleCalculatorForms.pdb

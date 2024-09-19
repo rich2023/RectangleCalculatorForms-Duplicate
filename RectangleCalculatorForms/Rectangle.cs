@@ -11,6 +11,7 @@ namespace RectangleCalculatorForms
         private double length;
         private double width;
 
+        //Test Comment, new comment
         public void SetLength(double length)
         {
             this.length = length;
